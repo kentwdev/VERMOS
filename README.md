@@ -9,10 +9,6 @@ Vermos framework architecture prevents CPU-intensive or long-running APIs bringi
 
     docker pull rtweed/-vermosserver
 
-There's also a Raspberry Pi version
-
-    docker pull rtweed/vermos-server-rpi
-
 Create three files within a folder of your choice (eg *~/myvermosApp*), using the sub-folder structure shown below:
 
         ~/myvermosApp
@@ -61,9 +57,6 @@ Fire up the vermos Docker instance:
 
     docker run -it --name vermosup --rm -p 3000:8080 -v ~/myvermosApp:/opt/vermos/mapped rtweed/vermos-server
 
-or on a Raspberry Pi:
-
-    docker run -it --name vermosup --rm -p 3000:8080 -v ~/myvermosApp:/opt/vermos/mapped rtweed/vermos-server-rpi
 
 
 Try out your REST API:
