@@ -1,4 +1,4 @@
-# vermos: Simplifying Web Development
+# VERMOS: Simplifying Web Development
 
 This is a JavaScript based platform for developing and running both interactive WebSocket-based applications and REST APIs.  vermos can run as either a monolithic back-end or as a set of MicroServices.
 
