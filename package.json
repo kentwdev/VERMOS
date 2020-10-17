@@ -1,0 +1,52 @@
+
+{
+  "name": "qewd",
+  "version": "2.51.7",
+  "config": {
+    "date": "2 October 2020"
+  },
+  "description": "Quick and Easy Web Development",
+  "main": "index.js",
+  "dependencies": {
+    "express": "",
+    "body-parser": "",
+    "ewd-client": "",
+    "ewd-qoper8": "",
+    "ewd-qoper8-express": "",
+    "ewd-qoper8-koa": "",
+    "ewd-session": "",
+    "ewd-qoper8-cache": "",
+    "ewd-qoper8-gtm": "",
+    "ewd-qoper8-redis": "",
+    "ewd-qoper8-iris": "",
+    "ewd-qoper8-dbx": "",
+    "extract-zip": "",
+    "fs-extra": "",
+    "qewd-router": "",
+    "qewd-monitor": "",
+    "qewd-transform-json": "",
+    "qoper8-wt": "",
+    "koa": "",
+    "koa-better-router": "",
+    "koa-bodyparser": "",
+    "koa-static": "",
+    "module-exists": "",
+    "redis": "",
+    "request": "",
+    "socket.io": "",
+    "socket.io-client": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robtweed/qewd.git"
+  },
+  "author": "Rob Tweed, M/Gateway Developments Ltd",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/robtweed/qewd/issues"
+  },
+  "homepage": "https://github.com/robtweed/qewd#readme"
+}

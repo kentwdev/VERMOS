@@ -1,0 +1,17 @@
+{
+  "name": "vermos-appliance",
+  "version": "2.19.0",
+  "description": "VERMOS Docker appliance",
+  "author": "Rob Tweed <rtweed@mgateway.com>",
+  "main": "vermos.js",
+  "scripts": {
+    "start": "NODE_PATH=/opt/vermos/mapped node vermos.js"
+  },
+  "dependencies": {
+    "vermos": "",
+    "vermos-monitor": "",
+    "tcp-netx": "",
+    "ewd-redis-globals": "",
+    "ewd-client": ""
+  }
+}
