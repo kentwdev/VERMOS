@@ -1,13 +1,22 @@
 # VERMOS: Simplifying Web Development
 
-This is a JavaScript based platform for developing and running both interactive WebSocket-based applications and REST APIs.  vermos can run as either a monolithic back-end or as a set of MicroServices.
+This is a JavaScript based platform for developing and running both interactive WebSocket-based applications and REST APIs. Vermos can run as either a monolithic back-end or as a set of MicroServices.
 
 Vermos framework architecture prevents CPU-intensive or long-running APIs bringing a Node.js system to its knees, and utilizes MongoDB database, to uniquely present your data as persistent JavaScript Objects.
+
+This is the next-gen, fast-track route to Building APIs
+
+
+## Working on VERMOS documentation: 
+
+Vermos Concept, Pre-requisites, Installation, Dockerized modes, Dockerised MicroServices, Definining your APIs, Defining your API handlers, Defining Your MicroService API Handlers, API Handler Module Arguments, JSON Web Tokens, Configuring .json files, JWT Inspection, Node.js Modules integration, setting up VERMOS docker containers.
+
+
 
 
 ## Try it out using the Dockerized verison
 
-    docker pull rtweed/-vermosserver
+    docker pull anteater515/-vermosserver
 
 Create three files within a folder of your choice (eg *~/myvermosApp*), using the sub-folder structure shown below:
 
