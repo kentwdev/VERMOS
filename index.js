@@ -1,14 +1,6 @@
 /*!
 
  ----------------------------------------------------------------------------
- | qewd: Quick and Easy Web Development                                     |
- |                                                                          |
- | Copyright (c) 2017 M/Gateway Developments Ltd,                           |
- | Reigate, Surrey UK.                                                      |
- | All rights reserved.                                                     |
- |                                                                          |
- | http://www.mgateway.com                                                  |
- | Email: rtweed@mgateway.com                                               |
  |                                                                          |
  |                                                                          |
  | Licensed under the Apache License, Version 2.0 (the "License");          |
@@ -24,10 +16,9 @@
  |  limitations under the License.                                          |
  ----------------------------------------------------------------------------
 
-  3 January 2017
 
 */
 
 'use strict';
 
-module.exports = require('./lib/qewd');
+module.exports = require('./lib/vermos');

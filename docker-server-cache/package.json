@@ -2,7 +2,7 @@
   "name": "vermos-server",
   "version": "2.40.1",
   "description": "Dockerised VERMOS Server",
-  "author": "Rob Tweed <rtweed@mgateway.com>",
+  "author": "expressjs>",
   "main": "vermos.js",
   "scripts": {
     "start": "NODE_PATH=/opt/vermos/mapped/modules node vermos.js"
