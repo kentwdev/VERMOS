@@ -1,4 +1,4 @@
-# VERMOS: Simplifying web development
+# VERMOS: simplifying web development
 
 This is a JavaScript based framework with improvementsfor developing and running both interactive web applications and REST APIs. Vermos can run as either a monolithic back-end or as a set of MicroServices.
 
