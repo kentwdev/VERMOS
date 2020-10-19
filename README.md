@@ -9,7 +9,7 @@ Vermos framework architecture prevents CPU-intensive or long-running APIs bringi
     --------------------------------------------
     |                                          |
     |           REST CLIENT               </>  |
-    |                           |              |
+    |                                          |
     ----------------------------|---------------
                                 |
                                 |
