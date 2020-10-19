@@ -7,6 +7,8 @@ Vermos framework architecture prevents CPU-intensive or long-running APIs bringi
 This is the next-gen, fast-track route to Building APIs
 
 
-## Working on VERMOS documentation: 
+## VERMOS is a work in progress
+
+## Below are the components that are in the build:
 
 Vermos Concept, Pre-requisites, Installation, Dockerized modes, Dockerised MicroServices, Definining your APIs, Defining your API handlers, Defining Your MicroService API Handlers, API Handler Module Arguments, JSON Web Tokens, Configuring .json files, JWT Inspection, Node.js Modules integration, setting up VERMOS docker containers.
