@@ -11,4 +11,4 @@ This is the next-gen, fast-track route to Building APIs
 
 ## Below are the components that are in the build:
 
-Vermos Concept, Pre-requisites, Installation, Dockerized modes, Dockerised MicroServices, Definining your APIs, Defining your API handlers, Defining Your MicroService API Handlers, API Handler Module Arguments, JSON Web Tokens, Configuring .json files, JWT Inspection, Node.js Modules integration, setting up VERMOS docker containers.
+Dockerized modes, Dockerised MicroServices, Definining APIs, Defining API handlers, Defining MicroService API Handlers, API Handler Module Arguments, JSON Web Tokens, Configuring .json files, JWT Inspection, Node.js Modules integration, setting up VERMOS docker containers.
